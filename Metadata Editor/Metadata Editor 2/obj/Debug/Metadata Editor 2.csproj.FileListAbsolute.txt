@@ -1,0 +1,45 @@
+G:\My programs\Моделювання\Metadata Editor 2\Metadata Editor 2\bin\Debug\Metadata Editor 2.exe.config
+G:\My programs\Моделювання\Metadata Editor 2\Metadata Editor 2\bin\Debug\Metadata Editor 2.exe
+G:\My programs\Моделювання\Metadata Editor 2\Metadata Editor 2\bin\Debug\Metadata Editor 2.pdb
+G:\My programs\Моделювання\Metadata Editor 2\Metadata Editor 2\obj\Debug\Metadata Editor 2.csprojResolveAssemblyReference.cache
+G:\My programs\Моделювання\Metadata Editor 2\Metadata Editor 2\obj\Debug\Metadata_Editor_2.Form1.resources
+G:\My programs\Моделювання\Metadata Editor 2\Metadata Editor 2\obj\Debug\Metadata_Editor_2.Properties.Resources.resources
+G:\My programs\Моделювання\Metadata Editor 2\Metadata Editor 2\obj\Debug\Metadata Editor 2.csproj.GenerateResource.Cache
+G:\My programs\Моделювання\Metadata Editor 2\Metadata Editor 2\obj\Debug\Metadata Editor 2.exe
+G:\My programs\Моделювання\Metadata Editor 2\Metadata Editor 2\obj\Debug\Metadata Editor 2.pdb
+G:\My programs\Моделювання\Metadata Editor 2\Metadata Editor 2\obj\Debug\Metadata_Editor_2.ResaultDialog.resources
+G:\My programs\Моделювання\Metadata Editor 2\Metadata Editor 2\bin\Debug\FrameLibrary.dll
+G:\My programs\Моделювання\Metadata Editor 2\Metadata Editor 2\bin\Debug\MP3.dll
+G:\My programs\Моделювання\Metadata Editor 2\Metadata Editor 2\bin\Debug\FrameLibrary.pdb
+G:\My programs\Моделювання\Metadata Editor 2\Metadata Editor 2\bin\Debug\MP3.pdb
+D:\My programs\Metadata Editor\Metadata Editor 2\Metadata Editor 2\bin\Debug\Metadata Editor 2.exe.config
+D:\My programs\Metadata Editor\Metadata Editor 2\Metadata Editor 2\obj\Debug\Metadata Editor 2.exe
+D:\My programs\Metadata Editor\Metadata Editor 2\Metadata Editor 2\obj\Debug\Metadata Editor 2.pdb
+D:\My programs\Metadata Editor\Metadata Editor 3\Metadata Editor 2\bin\Debug\FrameLibrary.dll
+D:\My programs\Metadata Editor\Metadata Editor 3\Metadata Editor 2\bin\Debug\MP3.dll
+D:\My programs\Metadata Editor\Metadata Editor 3\Metadata Editor 2\bin\Debug\FrameLibrary.pdb
+D:\My programs\Metadata Editor\Metadata Editor 3\Metadata Editor 2\bin\Debug\MP3.pdb
+D:\My programs\Metadata Editor\Metadata Editor 3\Metadata Editor 2\obj\Debug\Metadata Editor 2.csprojResolveAssemblyReference.cache
+D:\My programs\Metadata Editor\Metadata Editor 3\Metadata Editor 2\obj\Debug\Metadata_Editor_2.Form1.resources
+D:\My programs\Metadata Editor\Metadata Editor 3\Metadata Editor 2\obj\Debug\Metadata_Editor_2.Properties.Resources.resources
+D:\My programs\Metadata Editor\Metadata Editor 3\Metadata Editor 2\obj\Debug\Metadata_Editor_2.ResaultDialog.resources
+D:\My programs\Metadata Editor\Metadata Editor 3\Metadata Editor 2\obj\Debug\Metadata Editor 2.csproj.GenerateResource.Cache
+D:\My programs\Metadata Editor\Metadata Editor 3\Metadata Editor 2\bin\Debug\Metadata Editor 3.exe.config
+D:\My programs\Metadata Editor\Metadata Editor 3\Metadata Editor 2\bin\Debug\Metadata Editor 3.exe
+D:\My programs\Metadata Editor\Metadata Editor 3\Metadata Editor 2\bin\Debug\Metadata Editor 3.pdb
+D:\My programs\Metadata Editor\Metadata Editor 3\Metadata Editor 2\obj\Debug\Metadata Editor 3.exe
+D:\My programs\Metadata Editor\Metadata Editor 3\Metadata Editor 2\obj\Debug\Metadata Editor 3.pdb
+D:\My programs\other\Metadata Editor\Metadata Editor 3\Metadata Editor 2\bin\Debug\Metadata Editor 3.exe.config
+D:\My programs\other\Metadata Editor\Metadata Editor 3\Metadata Editor 2\obj\Debug\Metadata Editor 3.exe
+D:\My programs\other\Metadata Editor\Metadata Editor 3\Metadata Editor 2\obj\Debug\Metadata Editor 3.pdb
+D:\My programs\other\Metadata Editor\Metadata Editor 3\Metadata Editor 2\bin\Debug\Metadata Editor 3.exe
+D:\My programs\other\Metadata Editor\Metadata Editor 3\Metadata Editor 2\bin\Debug\Metadata Editor 3.pdb
+D:\My programs\other\Metadata Editor\Metadata Editor 3\Metadata Editor 2\bin\Debug\FrameLibrary.dll
+D:\My programs\other\Metadata Editor\Metadata Editor 3\Metadata Editor 2\bin\Debug\MP3.dll
+D:\My programs\other\Metadata Editor\Metadata Editor 3\Metadata Editor 2\bin\Debug\FrameLibrary.pdb
+D:\My programs\other\Metadata Editor\Metadata Editor 3\Metadata Editor 2\bin\Debug\MP3.pdb
+D:\My programs\other\Metadata Editor\Metadata Editor 3\Metadata Editor 2\obj\Debug\Metadata Editor 2.csprojResolveAssemblyReference.cache
+D:\My programs\other\Metadata Editor\Metadata Editor 3\Metadata Editor 2\obj\Debug\Metadata_Editor_2.Form1.resources
+D:\My programs\other\Metadata Editor\Metadata Editor 3\Metadata Editor 2\obj\Debug\Metadata_Editor_2.Properties.Resources.resources
+D:\My programs\other\Metadata Editor\Metadata Editor 3\Metadata Editor 2\obj\Debug\Metadata_Editor_2.ResaultDialog.resources
+D:\My programs\other\Metadata Editor\Metadata Editor 3\Metadata Editor 2\obj\Debug\Metadata Editor 2.csproj.GenerateResource.Cache
